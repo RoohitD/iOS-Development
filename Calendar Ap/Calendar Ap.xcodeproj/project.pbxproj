@@ -11,6 +11,9 @@
 		CD2A0C69296DB5D700490EF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A0C68296DB5D700490EF3 /* ContentView.swift */; };
 		CD2A0C6B296DB5D900490EF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD2A0C6A296DB5D900490EF3 /* Assets.xcassets */; };
 		CD2A0C6E296DB5D900490EF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD2A0C6D296DB5D900490EF3 /* Preview Assets.xcassets */; };
+		CD2A0C75296DC08300490EF3 /* DatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A0C74296DC08300490EF3 /* DatePicker.swift */; };
+		CD2A0C77296DC12900490EF3 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A0C76296DC12900490EF3 /* Home.swift */; };
+		CD2A0C79296DC4E200490EF3 /* DateValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD2A0C78296DC4E200490EF3 /* DateValue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		CD2A0C68296DB5D700490EF3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CD2A0C6A296DB5D900490EF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CD2A0C6D296DB5D900490EF3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD2A0C74296DC08300490EF3 /* DatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePicker.swift; sourceTree = "<group>"; };
+		CD2A0C76296DC12900490EF3 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		CD2A0C78296DC4E200490EF3 /* DateValue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateValue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				CD2A0C66296DB5D700490EF3 /* Calendar_ApApp.swift */,
 				CD2A0C68296DB5D700490EF3 /* ContentView.swift */,
+				CD2A0C76296DC12900490EF3 /* Home.swift */,
+				CD2A0C74296DC08300490EF3 /* DatePicker.swift */,
+				CD2A0C78296DC4E200490EF3 /* DateValue.swift */,
 				CD2A0C6A296DB5D900490EF3 /* Assets.xcassets */,
 				CD2A0C6C296DB5D900490EF3 /* Preview Content */,
 			);
@@ -139,6 +148,9 @@
 			files = (
 				CD2A0C69296DB5D700490EF3 /* ContentView.swift in Sources */,
 				CD2A0C67296DB5D700490EF3 /* Calendar_ApApp.swift in Sources */,
+				CD2A0C77296DC12900490EF3 /* Home.swift in Sources */,
+				CD2A0C75296DC08300490EF3 /* DatePicker.swift in Sources */,
+				CD2A0C79296DC4E200490EF3 /* DateValue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
